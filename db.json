@@ -1,3 +1,5 @@
 {
-    "foo": "line 1\nline2"
+    "messages": [
+        "line 1/nline2"
+    ]
 }
